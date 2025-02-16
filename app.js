@@ -66,6 +66,6 @@ function reiniciarjogo(){
 }
 
 let qddChute;
-let valormaximo = 10;
+let valormaximo = 30;
 let numeroSecreto;
 iniciarJogo();
